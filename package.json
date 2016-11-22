@@ -1,6 +1,6 @@
 {
     "name": "check-valid-url",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "whether a string is in URL or not",
     "main": "index.js",
     "scripts": {
