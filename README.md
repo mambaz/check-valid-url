@@ -1,4 +1,4 @@
-# check-url
+# check-valid-url
 
 Npm package to whether a string is in URL or not.
 
