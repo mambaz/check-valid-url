@@ -1,14 +1,14 @@
 {
     "name": "check-valid-url",
-    "version": "0.0.2",
-    "description": "whether a string is in URL or not",
+    "version": "0.1.0",
+    "description": "A Node.js library providing URL validation functionality to check whether a given string is a valid URL.",
     "main": "index.js",
     "scripts": {
-        "test": "mocha"
+        "test": "mocha --exit"
     },
     "devDependencies": {
-        "mocha": "^3.1.2",
-        "chai": "^3.5.0"
+        "chai": "^3.5.0",
+        "mocha": "^10.2.0"
     },
     "repository": {
         "type": "git",
@@ -22,7 +22,7 @@
         "check url"
     ],
     "author": "Shan Chinnananchi",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/mambaz/check-valid-url/issues"
     },
